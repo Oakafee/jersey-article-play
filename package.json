@@ -1,0 +1,23 @@
+{
+  "name": "react-inj",
+  "version": "1.0.0",
+  "description": "Testing out react in the context of INJ",
+  "main": "index.js",
+  "scripts": {
+    "test": "fuck"
+  },
+  "repository": {
+    "type": "git",
+    "url": "react-inj"
+  },
+  "author": "Jesse Fried",
+  "license": "ISC",
+  "dependencies": {
+    "babel-loader": "^7.1.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.5.3"
+  }
+}
